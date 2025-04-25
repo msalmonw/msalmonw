@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @msalmonw
-- 👀 I’m interested in Python, AI/ML, DeepLearning, Backend Development
-- 🌱 I’m currently learning Backend Development
-- 💞️ I’m looking to collaborate on AI/ML projects
+- 👀 Interested in Python, AI/ML, DeepLearning, Backend Development
 - 📫 How to reach me msalmanwahid@gmail.com
 
 <!---
