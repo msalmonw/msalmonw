@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @msalmonw
 - 👀 Interested in Python, AI/ML, DeepLearning, Backend Development
-- 📫 How to reach me msalmanwahid@gmail.com
+- 📫 How to reach me: msalmanwahid@gmail.com
 
-<!---
-msalmonw/msalmonw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What I Offer:
+✔ Backend Development: FastAPI, Django, Flask, REST APIs, GraphQL
+✔ Databases: PostgreSQL, MySQL, MongoDB, Redis, TimescaleDB
+✔ Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD
+✔ AI & Machine Learning: Computer Vision, Deep Learning, Data Analytics
+✔ AI Chatbots & Agents: OpenAI, LangChain, Rasa, GPT-based assistants, Autonomous Agents
+✔ IoT & Embedded Systems: Edge Computing, MQTT, IoT Data Processing
